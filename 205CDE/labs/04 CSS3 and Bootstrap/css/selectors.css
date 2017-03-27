@@ -14,6 +14,19 @@ h1.alert {
     color: red;
 }
 
-p#unique {
+p.alert {
+    text-decoration: underline;
+}
+
+.code {
+    font-size:0.9em;
+    color:black;
+}
+
+#unique {
     font-size: 0.8em;
+}
+
+#underlined {
+    text-decoration: underline;
 }
