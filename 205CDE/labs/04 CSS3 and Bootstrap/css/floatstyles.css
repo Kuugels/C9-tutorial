@@ -15,5 +15,10 @@ section#factbox {
     padding: 1em;
 }
 
-
+nav {
+    position: absolute;
+    top: 120px;
+    left: 40px;
+    width: 100px;
+}
 
